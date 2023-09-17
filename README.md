@@ -10,3 +10,6 @@ https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms
 
 - I find it incredible how AI can now generate better sorting algorithms that took many computer scientists years to develop and create. I think it indeed shows how powerful AI can be that and why it's such a big issue/topic in the field right now. If it can create new algorithms that can run 70% faster than the one we now have, it stands to ask what else AI can do for us.
 
+### Alex Hmitti 
+
+- It's very cool to see how developers are exploring diverse ways to apply reinforcement learning models to discover and optimize new tools and algorithms. I enjoy reading about the positive real-world impact of AI, rather than articles that solely focus on the doom and gloom aspects of AI.
